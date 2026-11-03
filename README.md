@@ -82,13 +82,14 @@ My projects range from educational technology and CRM platforms to WhatsApp-base
 
 > The descriptions below summarize projects I've worked on. Some client or private implementations may not have public source code. Planned extensions are not presented as shipped features.
 
-### 01 · Tarbiyah Hub — Educational SaaS Platform
+### 🎓 [Tarbiyah Hub](https://github.com/som3aamm/tarbiyahub-showcase)
 
-A multi-role educational platform for learning resources, interactive games, classrooms, assignments, live learning sessions, educational organizations, and subscription management. Built with modular services, role-based permissions, real-time features, and a Stripe integration layer.
+Educational SaaS platform featuring interactive learning,
+classroom management, role-based permissions, and subscriptions.
 
-**Tech:** Next.js · React · TypeScript · NestJS · PostgreSQL · Prisma · Redis · Socket.IO · MinIO · Docker · Nginx
+**Tech:** Next.js · NestJS · PostgreSQL · Prisma · Redis · Docker
 
-**Repository:** [tarbiyahub](https://github.com/som3aamm/tarbiyahub) · **Website:** [tarbiyahub.net](https://tarbiyahub.net)
+**[View Project Case Study](https://github.com/som3aamm/tarbiyahub-showcase)**
 
 ### 02 · RYAS.AI — Multi-Tenant WhatsApp Booking SaaS
 
@@ -164,7 +165,7 @@ Deploy, document, and improve
 
 ## 🎓 Education & Innovation
 
-- **New Assiut Technological University** — Information Technology (currently studying)
+- **New Assiut Technological University** — Information Technology 
 - **Ahmed Deif International School of Applied Technology** — Graduate; applied training in programming, problem solving, Agile, AI, IoT, Arduino, and Raspberry Pi
 - **Innovation activities:** Participation in or attendance at technology and innovation activities associated with ISEF, Fanni Mobtaker, and B.TECH
 
